@@ -1,5 +1,5 @@
 # [x] Initial setup; shadcn; features folder config
-# [] Customizing components
+# [x] Customizing components
 # [] Resolving lint errors
 # [] Creating auth screens
 # [] Setting up Hono API
