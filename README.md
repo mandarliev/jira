@@ -2,7 +2,7 @@
 # [x] Customizing components
 # [x] Resolving lint errors
 # [x] Creating auth screens
-# [] Setting up Hono API
+# [x] Setting up Hono API
 # [] Creating auth API
 # [] Setting up AppWrite & Database
 # [] Building a session middleware
