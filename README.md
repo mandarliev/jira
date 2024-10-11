@@ -3,7 +3,7 @@
 # [x] Resolving lint errors
 # [x] Creating auth screens
 # [x] Setting up Hono API
-# [] Creating auth API
+# [x] Creating auth API; react-query; appwrite; Hono RPC
 # [] Setting up AppWrite & Database
 # [] Building a session middleware
 # [] Learning how to protect routes
