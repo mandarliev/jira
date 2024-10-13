@@ -4,7 +4,7 @@
 # [x] Creating auth screens
 # [x] Setting up Hono API
 # [x] Creating auth API; react-query; appwrite; Hono RPC
-# [] Setting up AppWrite & Database
+# [x] Setting up AppWrite & Database
 # [] Building a session middleware
 # [] Learning how to protect routes
 # [] Building a dashboard layout
