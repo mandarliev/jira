@@ -5,7 +5,7 @@
 # [x] Setting up Hono API
 # [x] Creating auth API; react-query; appwrite; Hono RPC
 # [x] Setting up AppWrite & Database
-# [] Building a session middleware
+# [x] Building a session middleware
 # [] Learning how to protect routes
 # [] Building a dashboard layout
 # [] Building a workspace form
