@@ -6,7 +6,7 @@
 # [x] Creating auth API; react-query; appwrite; Hono RPC
 # [x] Setting up AppWrite & Database
 # [x] Building a session middleware
-# [] Learning how to protect routes
+# [x] Learning how to protect routes
 # [] Building a dashboard layout
 # [] Building a workspace form
 # [] Handling image upload
