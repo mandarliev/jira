@@ -8,7 +8,7 @@
 # [x] Building a session middleware
 # [x] Learning how to protect routes
 # [x] Building a dashboard layout
-# [] Building a workspace form
+# [x] Building a workspace form
 # [] Handling image upload
 # [] Creating a workspace switcher
 # [] Creating workspace members
