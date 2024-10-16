@@ -9,7 +9,7 @@
 # [x] Learning how to protect routes
 # [x] Building a dashboard layout
 # [x] Building a workspace form
-# [] Handling image upload
+# [x] Handling image upload
 # [] Creating a workspace switcher
 # [] Creating workspace members
 # [] Building a responsive modal
