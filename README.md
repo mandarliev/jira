@@ -10,7 +10,7 @@
 # [x] Building a dashboard layout
 # [x] Building a workspace form
 # [x] Handling image upload
-# [] Creating a workspace switcher
+# [x] Creating a workspace switcher
 # [] Creating workspace members
 # [] Building a responsive modal
 # [] Building a standalone layout
