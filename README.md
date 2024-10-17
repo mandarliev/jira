@@ -11,7 +11,7 @@
 # [x] Building a workspace form
 # [x] Handling image upload
 # [x] Creating a workspace switcher
-# [] Creating workspace members
+# [x] Creating workspace members
 # [] Building a responsive modal
 # [] Building a standalone layout
 # [] Building workspace settings
