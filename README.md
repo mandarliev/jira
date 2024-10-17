@@ -28,7 +28,7 @@
 
 # [x] react-use; building a responsive modal; nuqs @1.19.1
 
-# [] Building a standalone layout
+# [x] Building a standalone layout
 
 # [] Building workspace settings
 
