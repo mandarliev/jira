@@ -6,6 +6,7 @@ import { createAdminClient } from "@/lib/appwrite";
 import { ID } from "node-appwrite";
 import { AUTH_COOKIE } from "../constants";
 import { sessionMiddleware } from "@/lib/session-middleware";
+import { updateWorkspaceSchema } from "@/features/workspaces/schemas";
 
 const app = new Hono()
   .get("/current", sessionMiddleware, (c) => {

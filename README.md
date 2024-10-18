@@ -30,7 +30,7 @@
 
 # [x] Building a standalone layout
 
-# [] Building workspace settings
+# [x] Building workspace settings
 
 # [] Refactoring server queries
 
