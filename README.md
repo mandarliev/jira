@@ -32,7 +32,7 @@
 
 # [x] Building workspace settings
 
-# [] Refactoring server queries
+# [x] Refactoring server queries
 
 # [] Adding a "delete" functionality
 
