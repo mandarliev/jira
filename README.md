@@ -34,7 +34,7 @@
 
 # [x] Refactoring server queries
 
-# [] Adding a "delete" functionality
+# [x] Adding a "delete" functionality, added the hooks folder to the tailwind config
 
 # [] Adding a "reset invite" functionality
 
