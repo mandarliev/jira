@@ -36,7 +36,7 @@
 
 # [x] Adding a "delete" functionality, added the hooks folder to the tailwind config
 
-# [] Adding a "reset invite" functionality
+# [x] Adding a "reset invite" functionality, removed turbopack because of bugs
 
 # [] Building the invite system
 
