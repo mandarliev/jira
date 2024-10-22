@@ -38,7 +38,7 @@
 
 # [x] Adding a "reset invite" functionality, removed turbopack because of bugs
 
-# [] Building the invite system
+# [x] Building the invite system
 
 # [] Building the members list
 
