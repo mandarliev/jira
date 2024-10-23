@@ -40,7 +40,7 @@
 
 # [x] Building the invite system
 
-# [] Building the members list
+# [x] Building the members list
 
 # [] Adding workspace projects
 
