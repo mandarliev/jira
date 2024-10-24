@@ -42,7 +42,7 @@
 
 # [x] Building the members list
 
-# [] Adding workspace projects
+# [x] Adding workspace projects
 
 # [] Building project settings
 
