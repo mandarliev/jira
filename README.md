@@ -44,7 +44,7 @@
 
 # [x] Adding workspace projects
 
-# [] Building project settings
+# [x] Building project settings
 
 # [] Building a tasks API
 
