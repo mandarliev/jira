@@ -48,7 +48,7 @@
 
 # [x] Building a tasks API
 
-# [] Building a task form
+# [x] Building a task form
 
 # [] Building data filters
 
