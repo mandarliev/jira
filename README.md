@@ -46,7 +46,7 @@
 
 # [x] Building project settings
 
-# [] Building a tasks API
+# [x] Building a tasks API
 
 # [] Building a task form
 
