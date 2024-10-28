@@ -52,7 +52,7 @@
 
 # [x] Building data filters
 
-# [] Building a data table
+# [x] Building a data table
 
 # [] Adding task settings
 
