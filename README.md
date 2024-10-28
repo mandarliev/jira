@@ -50,7 +50,7 @@
 
 # [x] Building a task form
 
-# [] Building data filters
+# [x] Building data filters
 
 # [] Building a data table
 
