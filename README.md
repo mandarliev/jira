@@ -54,7 +54,7 @@
 
 # [x] Building a data table
 
-# [] Adding task settings
+# [x] Adding task settings
 
 # [] Building a data kanban
 
