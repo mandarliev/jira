@@ -56,7 +56,7 @@
 
 # [x] Adding task settings
 
-# [] Building a data kanban
+# [x] Building a data kanban, hello-pangea/dnd package
 
 # [] Building a kanban update API
 
