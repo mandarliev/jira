@@ -58,7 +58,7 @@
 
 # [x] Building a data kanban, hello-pangea/dnd package
 
-# [] Building a kanban update API
+# [x] Adding a kanban update API
 
 # [] Building a data calendar
 
