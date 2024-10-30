@@ -60,7 +60,7 @@
 
 # [x] Adding a kanban update API
 
-# [] Building a data calendar
+# [x] Building a data calendar
 
 # [] Adding a task page
 
