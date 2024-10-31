@@ -64,7 +64,7 @@
 
 # [x] Adding a task page
 
-# [] Refactoring server components
+# [x] Refactoring server components
 
 # [] Building project analytics
 
