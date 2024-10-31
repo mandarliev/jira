@@ -62,7 +62,7 @@
 
 # [x] Building a data calendar
 
-# [] Adding a task page
+# [x] Adding a task page
 
 # [] Refactoring server components
 
