@@ -68,7 +68,7 @@
 
 # [x] Building project analytics
 
-# [] Building workspace analytics
+# [x] Building workspace analytics
 
 # [] Resolving build errors
 
