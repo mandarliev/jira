@@ -74,4 +74,4 @@
 
 # [x] Implementing OAuth login
 
-# [] Deployment
+# [x] Deployment
