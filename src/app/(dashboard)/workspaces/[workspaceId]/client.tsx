@@ -122,7 +122,6 @@ interface ProjectListProps {
 }
 
 export const ProjectList = ({ data, total }: ProjectListProps) => {
-  const { open: createTask } = useCreateTaskModal();
   const workspaceId = useWorkspaceId();
   const { open: createProject } = useCreateProjectModal();
 

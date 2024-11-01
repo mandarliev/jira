@@ -4,7 +4,6 @@ import { PencilIcon, XIcon } from "lucide-react";
 import { DottedSeparator } from "@/components/dotted-separator";
 import { useState } from "react";
 import { useUpdateTask } from "../api/use-update-task";
-import { useUpdate } from "react-use";
 import { Textarea } from "@/components/ui/textarea";
 
 interface TaskDescriptionProps {

@@ -1,6 +1,5 @@
 import { getCurrent } from "@/features/auth/queries";
 import { getWorkspaces } from "@/features/workspaces/queries";
-import { useGetWorkspaces } from "@/features/workspaces/api/use-get-workspaces";
 import { redirect } from "next/navigation";
 
 export default async function Home() {

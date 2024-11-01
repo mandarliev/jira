@@ -70,7 +70,7 @@
 
 # [x] Building workspace analytics
 
-# [] Resolving build errors
+# [x] Resolving build errors
 
 # [] Implementing OAuth login
 
