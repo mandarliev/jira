@@ -66,7 +66,7 @@
 
 # [x] Refactoring server components
 
-# [] Building project analytics
+# [x] Building project analytics
 
 # [] Building workspace analytics
 
