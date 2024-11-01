@@ -72,6 +72,6 @@
 
 # [x] Resolving build errors
 
-# [] Implementing OAuth login
+# [x] Implementing OAuth login
 
 # [] Deployment
